@@ -1,0 +1,5 @@
+# Exclude original file over 100MB (split versions .part1 and .part2 are committed instead)
+GENERAL DSA CONCEPTS.docx
+
+# Temporary archive files
+*.zip
